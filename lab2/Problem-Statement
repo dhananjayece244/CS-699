@@ -11,11 +11,13 @@ If you cannot solve it, someone else may solve it for you. Better to solve right
 
 Submission Instructions:
 1.Make 5 different script files having names script1.sh to script5.sh.
-2.Make a ”readme.txt” which contains your 5 problem statements corresponding to your script number. Your problem statement must not be only technical. It must also describe your own life-experience where the problem arose. 
+2.Make a ”readme.txt” which contains your 5 problem statements corresponding to your script number. Your problem statement
+must not be only technical. It must also describe your own life-experience where the problem arose. 
 
 For example, my backup script, I may say that
 
-"After losing my correctly working code after making several changes - I decided to manually make a backup copy of my code frequently. Hence I wrote a script whose details are:
+"After losing my correctly working code after making several changes - I decided to manually make a backup copy of my code
+frequently. Hence I wrote a script whose details are:
 
 Input:...
 
