@@ -1,0 +1,26 @@
+
+date 12-10-2017 can be masked.
+
+date 12-15-1883 can not be masked as month value is not in the range.
+
+time = 23:34:54 can be masked.
+time = 24:34:54 can not be masked as it is not in the 24-hour clock range.
+
+us phone number is - +18767564353
+
+subnet ip address = 255 255 255 255
+abc@gmail.com phone number  +929878672342 bank balance  jhj@yahoo.com phone number-  +16574839295 pak phone number is - +929878989767
+
+jhsf@redit.com mob no- +910987678765 abc@gmail.com phone number - +16745362135
+
+jhj@yahoo.in phone number-  345 8778687 jhsf@redit.com mob no- +925463728297
+
+kjhj@hgdfg.com mob no jgsdf jkdhfs mvb oit
+
+
+indian phone number is +919878674532
+
+
+
+
+hjfj221@fhgj.com phone +919878564322 

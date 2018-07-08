@@ -1,0 +1,26 @@
+
+date dd-mm-yyyy can be masked.
+
+date 12-15-1883 can not be masked as month value is not in the range.
+
+time = hh:mm:ss can be masked.
+time = 24:34:54 can not be masked as it is not in the 24-hour clock range.
+
+
+subnet ip address = qqq xxx yyy zzz
+###@gmail.com phone number  +92********** bank balance  ###@yahoo.com phone number-  +1**********
+
+####@redit.com mob no- +91********** ####@gmail.com phone number - +1**********
+
+###@yahoo.in phone number-  345 8778687 ###@redit.com mob no- +92**********
+
+####@hgdfg.com mob no jgsdf jkdhfs mvb oit
+
+
+indian phone number is +91**********
+
+pak phone number is - +92**********
+
+us phone number is - +1**********
+
+#######@fhgj.com phone +91********** 
